@@ -12,11 +12,9 @@ switch($rand) {
 ?>
 
 <div class="header" id="tagline">
-
-    <h1>
-    Hi, my name is <span class="bold">Francis Beauchamp</span><br />
-    and I'm a <span class="bold">programmer</span><sup style="font-size:20px;">*</sup>
-    </h1>
+	<h1>Hi, my name is <span class="bold">Francis Beauchamp</span><br />
+		and I'm a <span class="bold">programmer</span><sup style="font-size:20px;">*</sup>
+	</h1>
     <h2>
     <b><sup style="font-size:14px;">*</sup><?php echo $mess; ?></b>
     </h2>

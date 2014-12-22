@@ -26,7 +26,7 @@
                 </div>
             </div>
             <div class="bar sup">
-                &#169; 2013 Francis Beauchamp <span class="copyright">| Some rights <a class="fx" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">reserved</a></span>
+                &#169; 2015 Francis Beauchamp <span class="copyright">| Some rights <a class="fx" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">reserved</a></span>
                 <div id="valid" style="float: right;">valid <a class="fx" href="http://validator.w3.org/check?uri=referer">XHTML</a> | valid
                     <a class="fx" href="http://jigsaw.w3.org/css-validator/check/referer">CSS</a></div>
             </div>
