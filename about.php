@@ -6,7 +6,7 @@
 	are closely related to developing clean, simple and beautiful designs. 
 	I believe that a minimalist yet functional approach is the proper way to design UIs. 
 	In my spare time, I enjoy drinking amazing espressos while learning new technologies 
-	to create lasting stuff, video games and websites. 
+	to create lasting stuff, video games and websites. You can also get a copy of my <a href="resources/documents/cv.pdf" download>resume</a> if you wish.
 </p>
 <div id="skills">
   <h2>Skill set</h2>

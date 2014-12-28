@@ -2,6 +2,7 @@
 <div class="bar work mainContent">
 <h1 class="title">Web design & programming</h1>
     <div class="thumb">
+        <div class="thumbImage" style="background: url(resources/images/tile.png);"></div>
         <svg class="magnif" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="64px" height="64px" viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
             <path fill="#000000" id="magnifier-icon" d="M460.475,408.443L351.4,299.37c15.95-25.137,25.2-54.923,25.2-86.833 C376.601,122.914,303.687,50,214.062,50c-89.623,0-162.537,72.914-162.537,162.537s72.914,162.537,162.537,162.537 c30.326,0,58.733-8.356,83.055-22.876L406.918,462L460.475,408.443z M112.117,212.537c0-56.213,45.732-101.946,101.945-101.946 c56.213,0,101.947,45.733,101.947,101.946s-45.733,101.945-101.947,101.945C157.849,314.482,112.117,268.75,112.117,212.537z"/>
         </svg>
@@ -40,8 +41,9 @@
         </div>
     </div>
     <div class="thumb">
+        <div class="thumbImage" style="background: url(resources/images/tetris.png);"></div>
         <svg class="magnif" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="64px" height="64px" viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
-            <path fill="#000000" id="magnifier-icon" d="M460.475,408.443L351.4,299.37c15.95-25.137,25.2-54.923,25.2-86.833 C376.601,122.914,303.687,50,214.062,50c-89.623,0-162.537,72.914-162.537,162.537s72.914,162.537,162.537,162.537 c30.326,0,58.733-8.356,83.055-22.876L406.918,462L460.475,408.443z M112.117,212.537c0-56.213,45.732-101.946,101.945-101.946 c56.213,0,101.947,45.733,101.947,101.946s-45.733,101.945-101.947,101.945C157.849,314.482,112.117,268.75,112.117,212.537z"/>
+            <path fill="#FFF" id="magnifier-icon" d="M460.475,408.443L351.4,299.37c15.95-25.137,25.2-54.923,25.2-86.833 C376.601,122.914,303.687,50,214.062,50c-89.623,0-162.537,72.914-162.537,162.537s72.914,162.537,162.537,162.537 c30.326,0,58.733-8.356,83.055-22.876L406.918,462L460.475,408.443z M112.117,212.537c0-56.213,45.732-101.946,101.945-101.946 c56.213,0,101.947,45.733,101.947,101.946s-45.733,101.945-101.947,101.945C157.849,314.482,112.117,268.75,112.117,212.537z"/>
         </svg>
         <div class="inner innerThumb">
         My tetris clone can be found on <a class="fx" href="https://github.com/Prismik/tetris-clone">github</a>.
@@ -57,14 +59,15 @@
         </div>
     </div>
     <div class="thumb">
+        <div class="thumbImage" style="background: url(resources/images/ui.png);"></div>
         <svg class="magnif" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="64px" height="64px" viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
             <path fill="#000000" id="magnifier-icon" d="M460.475,408.443L351.4,299.37c15.95-25.137,25.2-54.923,25.2-86.833 C376.601,122.914,303.687,50,214.062,50c-89.623,0-162.537,72.914-162.537,162.537s72.914,162.537,162.537,162.537 c30.326,0,58.733-8.356,83.055-22.876L406.918,462L460.475,408.443z M112.117,212.537c0-56.213,45.732-101.946,101.945-101.946 c56.213,0,101.947,45.733,101.947,101.946s-45.733,101.945-101.947,101.945C157.849,314.482,112.117,268.75,112.117,212.537z"/>
         </svg>
         <div class="inner innerThumb">
         My XNA UI Library (work in progress) can be found on <a class="fx" href="https://github.com/Prismik/scaling-octo-nemesis">github</a>.
         <br />  <br />
-        It contains all several components to handle several input operations. The key components are: InputField, DropDown,
-        ScrollBar, CheckBox, Button. Everything has been built using the WinForm approach at first (events driven operation handling).
+        It contains a bunch of components to handle several input operations. The key components are: InputField, DropDown,
+        ScrollBar, CheckBox, Button. Everything has been built using the WinForm approach (events driven operation handling).
         <br />  <br />
         </div>
         <div class="thumbInfo">
